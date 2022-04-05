@@ -14,3 +14,7 @@ Beef'i WAN üzerinde anonim olarak ve güvenli bir şekilde kullanabilmek için 
 Beef-Over-AWS size Beef aracını WAN üzerinden anonim bir şekilde ve güvenli olarak kullanabilmenizi sağlıyor. 
 
 ```
+
+# Version 2.3
+
+* Works Without Errors
